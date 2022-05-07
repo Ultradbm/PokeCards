@@ -1,3 +1,16 @@
+# PokéCards!
+
+Uses React and the <a href="https://pokeapi.co/">PokéAPI</a> to display flying type Pokemon as cards.
+Cards use the <a href="https://www.npmjs.com/package/react-parallax-tilt">React Parallax Tilt</a> library for some perspective fun!
+
+<img src="preview/preview1.jpg" alt="Poké Cards Preview"/>
+
+<br/>
+
+---
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
